@@ -8,10 +8,10 @@
 
 ## 下载链接
 
-| 版本类型     | 下载地址                                                                 |
-|--------------|--------------------------------------------------------------------------|
-| Godot 4.4.1 便携版 | [点击下载]([https://github.com/YFan001996/Godot/releases/tag/Downoad](https://github.com/YFan001996/Godot/releases/download/Downoad/Godot_v4.4.1.zip)) |
-| Godot 4.4.1 完整版 | [点击下载]([https://github.com/YFan001996/Godot/releases/tag/Downoad](https://github.com/YFan001996/Godot/releases/download/Downoad/Godot_v4.4.1_FULL.zip)) |
+| 版本类型            | 下载地址                                                                                        |
+| --------------- | ------------------------------------------------------------------------------------------- |
+| Godot 4.4.1 便携版 | [点击下载](https://github.com/YFan001996/Godot/releases/download/Downoad/Godot_v4.4.1.zip)      |
+| Godot 4.4.1 完整版 | [点击下载](https://github.com/YFan001996/Godot/releases/download/Downoad/Godot_v4.4.1_FULL.zip) |
 
 ## 使用说明
 
